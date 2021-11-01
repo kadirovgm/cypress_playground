@@ -1,5 +1,7 @@
 # Cypress terminal commands
 
+## [Cypress installation official docs](https://docs.cypress.io/guides/getting-started/installing-cypress)
+
 ## Install cypress 
 ### Go to repository path:
     cd /your/project/path
@@ -19,5 +21,4 @@
 
 ## Recommended: using npm scripts (package.json: scripts field):
     npm run cypress:open
-
 
