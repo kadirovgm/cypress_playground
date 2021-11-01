@@ -1,7 +1,15 @@
 {
+  "name": "cypress_playground",
+  "version": "2.0.0",
+  "description": "hr system ui e2e tests",
+  "main": "index.js",
+  "author": "Rushat Kadyrov",
+  "license": "ISC",
+  
   "devDependencies": {
     "cypress": "^8.7.0"
   },
+
   "scripts": {
       "cypress:open": "cypress open"
   }

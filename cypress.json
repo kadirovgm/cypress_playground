@@ -1,3 +1,12 @@
 {
-  "projectId": "dvmg5e"
+  "projectId": "dvmg5e",
+  
+  "pageLoadTimeout": 60000,
+  "defaultCommandTimeout": 4000,
+  "waitForAnimations": true,
+
+  "env": {
+    "login_url": "/login",
+    "positions_url": "/positions"
+  }
 }
