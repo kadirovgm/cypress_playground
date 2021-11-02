@@ -1,4 +1,4 @@
-# Why i cypress?
+# Why cypress?
 [Official site](https://www.cypress.io/how-it-works)
 [Official documentation](https://docs.cypress.io/guides/getting-started/installing-cypress)
 
