@@ -11,7 +11,7 @@ describe ('My First Test', function(){
 })
 
 describe ('My second Test', function(){
-    it('smth', function(){
-
+    it('first_AHS', function(){
+        cy.visit('')
     })
 })
